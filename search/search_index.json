@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Documentaci\u00f3n del Proyecto","text":"<p>Bienvenidos \ud83d\udc4b Esta es una plantilla basada en MkDocs + Material for MkDocs para cursos y proyectos.</p>"}]}
