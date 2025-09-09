@@ -3,7 +3,7 @@ Edad: 18años
 Fecha de nacimiento: 10/09/2025
 Lugar de nacimiento:Puebla
 
-<img src="../imgs/Fotodemi.jpg" width="250">
+    <img src="../imgs/Fotodemi.jpg" width="250">
 
 Una historia interesante:Practico natacion desde los 3 años compitiendo en varias ocaciones
 Intereses:1-jugar videojuegos
