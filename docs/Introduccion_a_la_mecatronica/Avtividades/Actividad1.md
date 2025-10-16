@@ -3,7 +3,7 @@ realizamos en un circuito un led que prendiera cada 4 segundos utilizando resist
 Se realizo la prueba, y para comprobar los valores del led y la corriente se conecto al osciloscopio en el cual se le la señal y se ve la recta cuadrada 
 
 <video width="400" controls>
-  <source src="../../assets/videos/Video1.mov" type="video/mov">
+  <source src="../../assets/videos/Video1.mov" type="video/mp4">
   Tu navegador no soporta video.
 </video>
 
