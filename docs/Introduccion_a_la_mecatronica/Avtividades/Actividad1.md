@@ -6,3 +6,8 @@ Se realizo la prueba, y para comprobar los valores del led y la corriente se con
   <source src="../../assets/videos/actividad1.mp4" type="video/mp4">
   Tu navegador no soporta video.
 </video>
+
+https://raul43102.github.io/IberoR/Introduccion_a_la_mecatronica/imgs/actividad1.mp4
+
+
+
