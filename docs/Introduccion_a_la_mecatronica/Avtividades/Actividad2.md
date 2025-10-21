@@ -17,3 +17,5 @@ Jumpers hembra-hembra
 2 resistencias de 20 KΩ
 1 capacitor de 220 µF
 1 circuito integrado 555
+
+*Resultados*
