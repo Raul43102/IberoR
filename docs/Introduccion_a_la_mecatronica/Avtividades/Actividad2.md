@@ -19,3 +19,4 @@ Jumpers hembra-hembra
 1 circuito integrado 555
 
 *Resultados*
+[Ver video](videos/actividad1.mp4)
