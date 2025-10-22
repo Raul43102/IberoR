@@ -20,7 +20,7 @@ Se conectó la ESP32 a la computadora mediante el cable USB.
 Se abrió Arduino IDE y se configuró la placa “DOIT ESP32 DEVKIT V1”.
 En el protoboard, se conectó el ánodo del LED al pin 13 de la ESP32 mediante una resistencia, y el cátodo al GND.
 Se escribió y cargó el siguiente código:
-
+```cpp
 const int led = 13;
 
 void setup() {
@@ -34,5 +34,5 @@ void loop() {
   digitalWrite(led, 0);
   delay(1000);
 }
-
+```
 *Resultados*
