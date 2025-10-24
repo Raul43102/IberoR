@@ -26,4 +26,7 @@ Jumpers hembra-hembra
   <source src="../../imgs/actividad1.mp4" type="video/mp4">
 </video>
 
+<video width="480" controls>
+  <source src="/imgs/actividad1.mp4" type="video/mp4">
+</video>
 
