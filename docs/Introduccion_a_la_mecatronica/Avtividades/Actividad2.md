@@ -20,5 +20,6 @@ Jumpers hembra-hembra
 
 *Resultados*
 <video width="400" controls>
-  <source src="../imgs/actividad1.mp4" type="video/mp4">
+  <source src="docs/imgs/actividad1.mp4" type="video/mp4">
 </video>
+
