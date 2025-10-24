@@ -30,3 +30,4 @@ Jumpers hembra-hembra
   <source src="/imgs/actividad1.mp4" type="video/mp4">
 </video>
 
+[Ver Video de la Actividad 1](../../imgs/actividad1.mp4)
